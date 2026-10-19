@@ -88,3 +88,42 @@ docker compose start             # start again
 docker compose down -v           # wipe everything, including the database
 docker compose logs fia-pg       # view logs
 ```
+
+## Data pipeline
+
+Raw Notion CSVs go through two steps so far: clean, then check what remains.
+Neither step modifies the original export.
+
+| Step | Script | Input | Output |
+|------|--------|-------|--------|
+| 1. Clean | `clean.py` | `notion_export/` | `cleaned/` + `cleaned/cleanup_report.md` |
+| 2. Visualize | `visualize.py` | `cleaned/` | Column summary printed in the terminal |
+
+### Run it
+
+```bash
+pip install pandas
+
+# 1. Clean: drops empty/sparse columns, fills empty property cells with NULL,
+#    saves files under clean names (no Notion id suffix)
+python clean.py notion_export/ --out cleaned/
+
+# 2. Visualize: shows what is left in each cleaned file
+python visualize.py
+```
+
+### What clean.py does
+- Turns placeholders (N/A, TBD, -, ?, null) into empty cells.
+- Drops rows with no Name.
+- Drops columns that are empty or under 1% filled (change with `--min-fill`).
+- Fills remaining empty cells with `NULL`, but never in Name, description, or relation columns.
+- Saves each file under its clean name and lists original -> saved names in the report.
+
+### How to read the visualize output
+For each category it lists every column with the number of real values, the number of cells
+filled with NULL, and a sample value. Use it to confirm the right columns survived and to spot
+columns that are mostly NULL.
+
+### Notes
+- Rows with an empty description are listed in `cleanup_report.md`. They are left blank on purpose.
+- `notion_export/` and `cleaned/` are git-ignored because they contain FIA content.
