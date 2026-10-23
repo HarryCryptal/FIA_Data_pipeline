@@ -1,0 +1,374 @@
+issue,file,line_in_original,value,detail
+short_description,Abuse Techniques,237,power transfer through financial dependence,7 characters: 'Comment'
+short_description,Abuse Techniques,238,Minimizing due to misunderstanding Literal communication mistaken as coldness Misreading emotional needs,7 characters: 'Comment'
+short_description,Abuse Techniques,240,Emotional flatness Reduced responsiveness Avoidance of heavy topics due to stress,7 characters: 'Comment'
+short_description,Abuse Techniques,241,Inattention / forgetfulness Emotional misattunement Overdependence on partner's structure,7 characters: 'Comment'
+short_description,Abuse Techniques,242,Boundary,7 characters: 'Comment'
+short_description,Abuse Techniques,244,Avoidance or shutdown when overwhelmed,7 characters: 'Comment'
+short_description,Abuse Techniques,245,Over-rationalizing feelings (“Let’s be practical about this.”),7 characters: 'Comment'
+short_description,Abuse Techniques,246,Assuming everything is fine because he feels fine,7 characters: 'Comment'
+short_description,Abuse Techniques,247,Defaulting to solutions instead of empathy,7 characters: 'Comment'
+short_description,Abuse Techniques,250,Punitive conditioning,7 characters: 'Comment'
+short_description,Abuse Techniques,251,Control through Accusation,7 characters: 'Comment'
+short_description,Abuse Techniques,252,Control through Criticism,7 characters: 'Comment'
+duplicate_name,Media characters,20,Tony Stark/Iron Man,"2 rows share this name (lines 20, 37); a loader keeps only one"
+empty_description,Media characters,2,Tom Ripley,description is empty
+empty_description,Media characters,3,Patrick Bateman,description is empty
+empty_description,Media characters,4,Joe Goldberg,description is empty
+empty_description,Media characters,5,Dan Humphrey,description is empty
+empty_description,Media characters,6,Kilgrave,description is empty
+empty_description,Media characters,8,Clyde Shelton,description is empty
+empty_description,Media characters,10,Don Draper,description is empty
+empty_description,Media characters,11,Chuck Bass,description is empty
+empty_description,Media characters,12,Rhett Butler,description is empty
+empty_description,Media characters,13,Hannibal Lecter,description is empty
+empty_description,Media characters,14,Frank Underwood,description is empty
+empty_description,Media characters,15,Ross Geller,description is empty
+empty_description,Media characters,16,Sheldon Cooper,description is empty
+empty_description,Media characters,17,Walter White,description is empty
+empty_description,Media characters,18,Sherlock Holmes,description is empty
+empty_description,Media characters,19,Gregory House,description is empty
+empty_description,Media characters,20,Tony Stark/Iron Man,description is empty
+empty_description,Media characters,21,Fletcher,description is empty
+empty_description,Media characters,22,Coach,description is empty
+empty_description,Media characters,23,Gordon Ramsay,description is empty
+empty_description,Media characters,24,JK Simmons,description is empty
+empty_description,Media characters,25,Terence Fletcher,description is empty
+empty_description,Media characters,27,Nick,description is empty
+empty_description,Media characters,28,Charlie,description is empty
+empty_description,Media characters,29,OJ Simpson,description is empty
+empty_description,Media characters,52,Anakin Skywalker,description is empty
+no_name,Mental processes,27,,row has no name; dropped
+empty_description,Mental processes,9,Confabulation,description is empty
+empty_description,Mental processes,10,Role of language,description is empty
+empty_description,Mental processes,14,"State dependent learning, flow states",description is empty
+empty_description,Mental processes,15,Splitting,description is empty
+empty_description,Mental processes,17,"Intrusion, desensitization, and isolation",description is empty
+empty_description,Mental processes,18,3-step model of assertiveness,description is empty
+empty_description,Mental processes,20,Competitive Mindset,description is empty
+empty_description,Mental processes,21,Stockholm Syndrome,description is empty
+empty_description,Mental processes,22,Survival responses,description is empty
+empty_description,Mental processes,23,Dissociation,description is empty
+empty_description,Mental processes,24,Projection,description is empty
+empty_description,Mental processes,25,Object Constancy,description is empty
+empty_description,Mental processes,26,Narrative Creation,description is empty
+empty_description,Mental processes,28,Aversion Practice,description is empty
+no_name,Player typologies,35,,row has no name; dropped
+empty_description,Player typologies,11,Mentally Ill,description is empty
+empty_description,Player typologies,38,Suspicious Strategist,description is empty
+empty_description,Red flags,2,Hates their mother,no description column in this file
+empty_description,Red flags,3,Is enmeshed with their mother,no description column in this file
+empty_description,Red flags,4,"Says you have no right to voice concerns about their kids or family members, for example if their kid hits someone",no description column in this file
+empty_description,Red flags,5,Has family members with poor boundaries,no description column in this file
+empty_description,Red flags,6,Your family tells you something is “off” about them,no description column in this file
+empty_description,Red flags,7,Has a history of cheating or being unfaithful,no description column in this file
+empty_description,Red flags,8,Has a history of abusive behavior or violence,no description column in this file
+empty_description,Red flags,9,Refuses to compromise or make any effort to meet you halfway,no description column in this file
+empty_description,Red flags,10,Is in another relationship and keeps you on the side,no description column in this file
+empty_description,Red flags,11,Is overly possessive of their phone or other devices,no description column in this file
+empty_description,Red flags,12,Sets small tests for you,no description column in this file
+empty_description,Red flags,13,Constantly talks about their exes or past relationships,no description column in this file
+empty_description,Red flags,14,You feel like you are walking on eggshells around them,no description column in this file
+empty_description,Red flags,15,Gets defensive easily,no description column in this file
+empty_description,Red flags,16,Constantly interrupts you when you’re speaking,no description column in this file
+empty_description,Red flags,17,"Is always complaining, dissatisfied or unlucky",no description column in this file
+empty_description,Red flags,18,You hesitate to speak up because their feelings get hurt so easily,no description column in this file
+empty_description,Red flags,19,Holds any little error you make against you forever and brings it up every time they are upset,no description column in this file
+empty_description,Red flags,20,You feel something is not quite right,no description column in this file
+empty_description,Red flags,21,Is over- or under-committed for the time you have spent together,no description column in this file
+empty_description,Red flags,22,Uses drugs or alcohol too often,no description column in this file
+empty_description,Red flags,23,Has had STDs,no description column in this file
+empty_description,Red flags,24,Has a reputation for lying,no description column in this file
+empty_description,Red flags,25,Has unconventional sexual interests,no description column in this file
+empty_description,Red flags,26,Has a history of untreated depression,no description column in this file
+empty_description,Red flags,27,Has a history of anxiety,no description column in this file
+empty_description,Red flags,28,Has a history of bipolar disorder (especially untreated),no description column in this file
+empty_description,Red flags,29,Has a history of conduct disorder,no description column in this file
+empty_description,Red flags,30,"Has a history of a psychotic disorder, such as schizophrenia",no description column in this file
+empty_description,Red flags,31,Has a history of narcissistic personality disorder,no description column in this file
+empty_description,Red flags,32,Has a history of antisocial personality disorder (ASPD),no description column in this file
+empty_description,Red flags,33,Has a history of borderline personality disorder (BPD),no description column in this file
+empty_description,Red flags,34,Has a history of PTSD or complex PTSD,no description column in this file
+empty_description,Red flags,35,Has another kind of criminal record,no description column in this file
+empty_description,Red flags,36,Has a DUI on record,no description column in this file
+empty_description,Red flags,37,Has an assault on record,no description column in this file
+empty_description,Red flags,38,Had an absent or neglectful parent,no description column in this file
+empty_description,Red flags,39,Can’t adapt to a spontaneous request,no description column in this file
+empty_description,Red flags,40,Has ADHD,no description column in this file
+empty_description,Red flags,41,"Puts work or hobbies ahead of a relationship, for example is a workaholic",no description column in this file
+empty_description,Red flags,42,Loves casual dating,no description column in this file
+empty_description,Red flags,43,Gives you the impression that their sexual interest means emotional interest,no description column in this file
+empty_description,Red flags,44,"Isn’t open to authentic, deep relationships",no description column in this file
+empty_description,Red flags,45,Had an emotionally unavailable parent,no description column in this file
+empty_description,Red flags,46,Had an unfaithful parent,no description column in this file
+empty_description,Red flags,47,Watches violent porn,no description column in this file
+empty_description,Red flags,48,"Wants a parent, not a partner",no description column in this file
+empty_description,Red flags,49,Was abused or suffered other severe trauma as a child,no description column in this file
+empty_description,Red flags,50,Leaves the adult work to you and only plays with the kids,no description column in this file
+empty_description,Red flags,51,Has intelligence and achievements that don’t match up,no description column in this file
+empty_description,Red flags,52,Can’t provide guidance or discipline as a parent,no description column in this file
+empty_description,Red flags,53,Won’t say where they go or who they are with,no description column in this file
+empty_description,Red flags,54,Goes by aliases,no description column in this file
+empty_description,Red flags,55,"Avoids sharing basic facts about their past, like where they grew up",no description column in this file
+empty_description,Red flags,56,Tells stories that don’t add up,no description column in this file
+empty_description,Red flags,57,Has mysterious other jobs or meetings,no description column in this file
+empty_description,Red flags,58,You don’t know how they make money,no description column in this file
+empty_description,Red flags,59,"Has a respected position as a parent figure, role model, mentor, youth leader, clergy member or camp counselor, but something underneath seems highly suspect",no description column in this file
+empty_description,Red flags,60,"Has a history of dramatic, failed relationships",no description column in this file
+empty_description,Red flags,61,Speaks with absolute certainty,no description column in this file
+empty_description,Red flags,62,You feel less bright and competent since being with them,no description column in this file
+empty_description,Red flags,63,Never wants to be inconvenienced,no description column in this file
+empty_description,Red flags,64,Makes demands out of proportion to their contributions,no description column in this file
+empty_description,Red flags,65,Hates it when you ask for things,no description column in this file
+empty_description,Red flags,66,Is smug,no description column in this file
+empty_description,Red flags,67,You feel boiling angry,no description column in this file
+empty_description,Red flags,68,You start doubting your own reactions and sanity,no description column in this file
+empty_description,Red flags,69,"Claims to have been physically abused by an ex, yet looks down on women who are abused",no description column in this file
+empty_description,Red flags,70,Believes women are behind the scenes pulling strings and dominating everything,no description column in this file
+empty_description,Red flags,71,Enjoys seeing people or animals suffer,no description column in this file
+empty_description,Red flags,72,You feel like a child living with a strict parent,no description column in this file
+empty_description,Red flags,73,You feel violated,no description column in this file
+empty_description,Red flags,74,Doesn’t reliably take their medication for a mental illness,no description column in this file
+empty_description,Red flags,75,"Constantly chases instant pleasure, like food, gambling or new partners",no description column in this file
+empty_description,Red flags,76,Has undisclosed financial problems,no description column in this file
+empty_description,Red flags,77,"Presents as sensitive (retreats, new age, therapy, self-help books, sharing insecurities), but something about them feels controlling",no description column in this file
+empty_description,Red flags,78,Gives you pop psychology language but no genuine support when your feelings are hurt,no description column in this file
+empty_description,Red flags,79,"Says things like “I am against macho behavior, so I couldn’t be abusive”",no description column in this file
+empty_description,Red flags,80,Underperforms in their career,no description column in this file
+empty_description,Red flags,81,Has never had a long-term relationship,no description column in this file
+empty_description,Red flags,82,Becomes frantic at the end of a relationship,no description column in this file
+empty_description,Red flags,83,"Has an exaggerated, stereotypical view of men and women",no description column in this file
+empty_description,Red flags,84,Believes women are delicate and need protection,no description column in this file
+empty_description,Red flags,85,Believes they are tougher than everyone else,no description column in this file
+empty_description,Red flags,86,Believes aggression is a strength,no description column in this file
+empty_description,Red flags,87,"Believes anything remotely associated with homosexuality is bad, including femininity",no description column in this file
+empty_description,Red flags,88,"Treats fear and sadness as weakness, in themselves and others",no description column in this file
+empty_description,Red flags,89,Is a fantastic lover,no description column in this file
+empty_description,Red flags,90,Doesn’t want any restrictions on their freedom,no description column in this file
+empty_description,Red flags,91,You often break up and get back together,no description column in this file
+empty_description,Red flags,92,"Often fails to handle basic responsibilities like work, bills or commitments",no description column in this file
+empty_description,Red flags,93,Shows no concern when others are hurt,no description column in this file
+empty_description,Red flags,94,Can’t take women seriously as human beings,no description column in this file
+empty_description,Red flags,95,Believes women who have sex are too loose and women who don’t are too tight,no description column in this file
+empty_description,Red flags,96,Is an adrenaline junkie,no description column in this file
+empty_description,Red flags,97,Is awkward and inept in relationships,no description column in this file
+empty_description,Red flags,98,Won’t work on the relationship or get help,no description column in this file
+empty_description,Red flags,99,Is only interested in having sex with you,no description column in this file
+empty_description,Red flags,100,Is totally conflict avoidant,no description column in this file
+empty_description,Red flags,101,Resents others who seem to have control,no description column in this file
+empty_description,Red flags,102,Keeps a second residence,no description column in this file
+empty_description,Red flags,103,Refuses to be photographed or filmed,no description column in this file
+empty_description,Red flags,104,"Claims to have, or have had, a high-status job with no proof",no description column in this file
+empty_description,Red flags,105,Values appearance and status over real connection,no description column in this file
+empty_description,Red flags,106,Has OCD,no description column in this file
+empty_description,Red flags,107,Is autistic,no description column in this file
+empty_description,Red flags,108,Talks about fate a lot,no description column in this file
+empty_description,Red flags,109,Acts as if they are more spiritually enlightened than others,no description column in this file
+empty_description,Red flags,110,Rejects science and evidence,no description column in this file
+empty_description,Red flags,111,"Rarely gives compliments, if at all",no description column in this file
+empty_description,Red flags,112,Their body language doesn't match what they are saying,no description column in this file
+empty_description,Red flags,113,Seems uninterested in you,no description column in this file
+empty_description,Red flags,114,Gets bored easily,no description column in this file
+empty_description,Red flags,115,Is overly gullible,no description column in this file
+empty_description,Red flags,116,You depend on them for money and housing,no description column in this file
+empty_description,Red flags,117,You carry most of the planning and reminding in the relationship,no description column in this file
+empty_description,Red flags,118,You feel lonely even when they are with you,no description column in this file
+empty_description,Red flags,119,Seems confused when you are vulnerable,no description column in this file
+empty_description,Red flags,120,Is enmeshed with their children,no description column in this file
+empty_description,Red flags,121,Is on social media too much,no description column in this file
+empty_description,Red flags,122,Lives a long way away from you,no description column in this file
+empty_description,Red flags,123,Watches a lot of porn,no description column in this file
+empty_description,Red flags,124,Has few friends,no description column in this file
+empty_description,Red flags,125,Had a chronic illness as a child,no description column in this file
+empty_description,Red flags,126,Has a sexual offense on record,no description column in this file
+empty_description,Red flags,127,Looks down on compassion and compromise,no description column in this file
+empty_description,Red flags,128,Has no fixed address,no description column in this file
+empty_description,Red flags,129,Had a parent with an addiction,no description column in this file
+empty_description,Red flags,130,Over- or undervalues their children,no description column in this file
+empty_description,Red flags,131,Is rude or contemptuous to waiters and service staff,no description column in this file
+empty_description,Red flags,132,Calls all their exes “crazy”,no description column in this file
+empty_description,Red flags,133,Has had a protective or restraining order from a past partner,no description column in this file
+empty_description,Red flags,134,Asks to borrow money early on,no description column in this file
+empty_description,Red flags,135,Hasn’t introduced you to friends or family after several months,no description column in this file
+empty_description,Red flags,136,Is unemployed,no description column in this file
+empty_description,Red flags,137,Has a new or nearly empty online profile,no description column in this file
+empty_description,Red flags,138,Your child from a previous relationship lives with you,no description column in this file
+empty_description,Red flags,139,Changes jobs often,no description column in this file
+empty_description,Red flags,140,Has access to a gun,no description column in this file
+empty_description,Red flags,141,Gets angry at strangers or other drivers,no description column in this file
+empty_description,Red flags,142,Keeps getting fired,no description column in this file
+duplicate_name,Trauma,60,Loss of autonomy in decision-making,"2 rows share this name (lines 60, 61); a loader keeps only one"
+empty_description,Trauma,2,Cognitive dissonance,no description column in this file
+empty_description,Trauma,3,Depression,no description column in this file
+empty_description,Trauma,4,PTSD,no description column in this file
+empty_description,Trauma,5,Anxiety,no description column in this file
+empty_description,Trauma,6,Phobias,no description column in this file
+empty_description,Trauma,7,Complex PTSD,no description column in this file
+empty_description,Trauma,8,Vigilance,no description column in this file
+empty_description,Trauma,9,Walking on eggshells,no description column in this file
+empty_description,Trauma,10,Learned helplessness,no description column in this file
+empty_description,Trauma,11,Feelings of Worthlessness,no description column in this file
+empty_description,Trauma,12,Low self esteem,no description column in this file
+empty_description,Trauma,13,Shame,no description column in this file
+empty_description,Trauma,14,ADHD,no description column in this file
+empty_description,Trauma,15,Feeling trapped or helpless,no description column in this file
+empty_description,Trauma,16,Personality erosion,no description column in this file
+empty_description,Trauma,17,Boiling anger,no description column in this file
+empty_description,Trauma,18,Extremely complex and long lasting,no description column in this file
+empty_description,Trauma,19,Emotional dysregulation,no description column in this file
+empty_description,Trauma,20,Difficulty setting boundaries,no description column in this file
+empty_description,Trauma,21,Trust issues,no description column in this file
+empty_description,Trauma,22,Codependency,no description column in this file
+empty_description,Trauma,23,Self-doubt,no description column in this file
+empty_description,Trauma,24,Betrayal,no description column in this file
+empty_description,Trauma,25,Sense of being duped,no description column in this file
+empty_description,Trauma,26,Confusion,no description column in this file
+empty_description,Trauma,27,Fear,no description column in this file
+empty_description,Trauma,28,Isolation,no description column in this file
+empty_description,Trauma,29,"Emotional abuse: headaches, tummy aches, fatigue",no description column in this file
+empty_description,Trauma,30,Addiction,no description column in this file
+empty_description,Trauma,31,"Victims of psychological abuse may experience feelings of helplessness, hopelessness, and a lack of control over their lives, which can lead to physical symptoms such as a weakened immune system, chronic pain, and digestive problems.",no description column in this file
+empty_description,Trauma,32,Hopelessness,no description column in this file
+empty_description,Trauma,33,"Relationship addiction, inability to move on",no description column in this file
+empty_description,Trauma,34,Flashbacks,no description column in this file
+empty_description,Trauma,35,Intrusive thoughts,no description column in this file
+empty_description,Trauma,36,Nightmares,no description column in this file
+empty_description,Trauma,37,Attachment difficulties,no description column in this file
+empty_description,Trauma,38,Frustration,no description column in this file
+empty_description,Trauma,39,Overwhelmed with responsibilities,no description column in this file
+empty_description,Trauma,40,Invalidation,no description column in this file
+empty_description,Trauma,41,Fear of Abandonment,no description column in this file
+empty_description,Trauma,42,Loss of faith and meaning,no description column in this file
+empty_description,Trauma,43,Dissociation,no description column in this file
+empty_description,Trauma,44,Suffocation,no description column in this file
+empty_description,Trauma,45,Hypervigilance,no description column in this file
+empty_description,Trauma,46,Sleep disturbances,no description column in this file
+empty_description,Trauma,47,Chronic health problems,no description column in this file
+empty_description,Trauma,48,Loneliness and Isolation,no description column in this file
+empty_description,Trauma,49,Cardiovascular Disease,no description column in this file
+empty_description,Trauma,50,Weakened immune system,no description column in this file
+empty_description,Trauma,51,Poor lifestyle choices,no description column in this file
+empty_description,Trauma,52,Chronic stress,no description column in this file
+empty_description,Trauma,53,Formation of trauma bond,no description column in this file
+empty_description,Trauma,54,Resentment,no description column in this file
+empty_description,Trauma,55,Exhaustion,no description column in this file
+empty_description,Trauma,56,Imbalance,no description column in this file
+empty_description,Trauma,57,Lack of growth,no description column in this file
+empty_description,Trauma,58,Financial instability,no description column in this file
+empty_description,Trauma,59,Increased Vulnerability to Exploitation,no description column in this file
+empty_description,Trauma,60,Loss of autonomy in decision-making,no description column in this file
+empty_description,Trauma,61,Loss of autonomy in decision-making,no description column in this file
+empty_description,Trauma,62,Chronic Guilt,no description column in this file
+empty_description,Trauma,63,Legal consequences,no description column in this file
+empty_description,Trauma,64,Cognitive decline,no description column in this file
+empty_description,Trauma,65,Overly inflated esteem,no description column in this file
+empty_description,Trauma,66,Attachment Trauma (not trauma bond),no description column in this file
+empty_description,Trauma,67,Hyperindependence as defense mechanism,no description column in this file
+empty_description,Trauma,68,manipulation,no description column in this file
+empty_description,Trauma,69,"None — this typology does not create trauma, only emotional disconnect.",no description column in this file
+empty_description,Trauma,70,"None — situation caused confusion or loneliness, not trauma.",no description column in this file
+empty_description,Trauma,71,Existential Crisis,no description column in this file
+empty_description,Trauma,72,Self-Blame,no description column in this file
+empty_description,Trauma,73,Suicidality,no description column in this file
+empty_description,Trauma,74,Autoimmune Dysfunction,no description column in this file
+empty_description,Trauma,75,Euphoric Recall,no description column in this file
+empty_description,Trauma,76,Task Avoidance,no description column in this file
+empty_description,Trauma,77,Trauma bonding,no description column in this file
+empty_description,Trauma,78,Freeze Response,no description column in this file
+empty_description,Trauma,79,Brain Fog,no description column in this file
+empty_description,Trauma,80,Indecision,no description column in this file
+empty_description,Trauma,81,Memory Impairment,no description column in this file
+empty_description,Universal Neurological Encoding system,40,Impulsivity-low,description is empty
+empty_description,Universal Neurological Encoding system,55,Sense of Self-low,description is empty
+empty_description,Universal Neurological Encoding system,58,isolation-high,description is empty
+duplicate_name,Vulnerability Traits,83,Empathic women who over-accommodate,"2 rows share this name (lines 83, 84); a loader keeps only one"
+empty_description,Vulnerability Traits,2,Trusting,description is empty
+empty_description,Vulnerability Traits,3,Open/Curious,description is empty
+empty_description,Vulnerability Traits,4,Tolerant,description is empty
+empty_description,Vulnerability Traits,5,Cooperative,description is empty
+empty_description,Vulnerability Traits,6,Agreeable,description is empty
+empty_description,Vulnerability Traits,7,Empathatic,description is empty
+empty_description,Vulnerability Traits,8,Loyal,description is empty
+empty_description,Vulnerability Traits,9,Low self esteem,description is empty
+empty_description,Vulnerability Traits,10,Neurotic,description is empty
+empty_description,Vulnerability Traits,11,Conscientious,description is empty
+empty_description,Vulnerability Traits,12,Straightforward/genuine,description is empty
+empty_description,Vulnerability Traits,13,Nonassertive,description is empty
+empty_description,Vulnerability Traits,14,Perfectionist,description is empty
+empty_description,Vulnerability Traits,15,PTSD,description is empty
+empty_description,Vulnerability Traits,16,Borderline Personality Disorder,description is empty
+empty_description,Vulnerability Traits,17,Depression,description is empty
+empty_description,Vulnerability Traits,18,Anxiety Disorder,description is empty
+empty_description,Vulnerability Traits,19,Substance Abuse Disorder,description is empty
+empty_description,Vulnerability Traits,20,Eating Disorder,description is empty
+empty_description,Vulnerability Traits,21,Schizophrenia,description is empty
+empty_description,Vulnerability Traits,22,Bipolar Disorder,description is empty
+empty_description,Vulnerability Traits,23,Obsessive-Compulsive Disorder,description is empty
+empty_description,Vulnerability Traits,24,Childhood abuse or neglect,description is empty
+empty_description,Vulnerability Traits,25,Sexual assault or rape,description is empty
+empty_description,Vulnerability Traits,26,Domestic violence,description is empty
+empty_description,Vulnerability Traits,27,Witnessing violence or trauma,description is empty
+empty_description,Vulnerability Traits,28,Significant loss or bereavement,description is empty
+empty_description,Vulnerability Traits,29,Chronic illness or disability,description is empty
+empty_description,Vulnerability Traits,30,Combat or other traumatic events experienced in adulthood,description is empty
+empty_description,Vulnerability Traits,31,Isolation,description is empty
+empty_description,Vulnerability Traits,32,Financial difficulty,description is empty
+empty_description,Vulnerability Traits,33,Recent Life Changes,description is empty
+empty_description,Vulnerability Traits,34,Lack of social support,description is empty
+empty_description,Vulnerability Traits,35,Currently searching for answers or meaning in life,description is empty
+empty_description,Vulnerability Traits,36,Lack of relationship experience,description is empty
+empty_description,Vulnerability Traits,38,ADHD,description is empty
+empty_description,Vulnerability Traits,39,Traumatic brain injuries,description is empty
+empty_description,Vulnerability Traits,40,Cognitive impairments,description is empty
+empty_description,Vulnerability Traits,41,Soul mates,description is empty
+empty_description,Vulnerability Traits,42,Believing in spiritual healing,description is empty
+empty_description,Vulnerability Traits,43,Likes highly masculine men,description is empty
+empty_description,Vulnerability Traits,44,Dependent mentality,description is empty
+empty_description,Vulnerability Traits,45,Ignoring red flags,description is empty
+empty_description,Vulnerability Traits,46,People-pleasing,description is empty
+empty_description,Vulnerability Traits,47,Insecurity,description is empty
+empty_description,Vulnerability Traits,48,Self-doubt,description is empty
+empty_description,Vulnerability Traits,49,Need validation/approval from others,description is empty
+empty_description,Vulnerability Traits,50,Fear of abandonment,description is empty
+empty_description,Vulnerability Traits,51,Fantasy-prone thinking,description is empty
+empty_description,Vulnerability Traits,52,Idealization,description is empty
+empty_description,Vulnerability Traits,53,Boundary issues,description is empty
+empty_description,Vulnerability Traits,54,Overconfidence in ability to be conned/spot liars,description is empty
+empty_description,Vulnerability Traits,55,“Love will conquer all”,description is empty
+empty_description,Vulnerability Traits,56,“Evil is a thing I will recognize”,description is empty
+empty_description,Vulnerability Traits,57,Altruism,description is empty
+empty_description,Vulnerability Traits,58,High relationship investment and high attachment,description is empty
+empty_description,Vulnerability Traits,59,Hyper-focus on sentimental aspects of a relationship,description is empty
+empty_description,Vulnerability Traits,60,Low impulsiveness,description is empty
+empty_description,Vulnerability Traits,61,High resourcefulness,description is empty
+empty_description,Vulnerability Traits,62,Magical thinking,description is empty
+empty_description,Vulnerability Traits,63,Optimistic,description is empty
+empty_description,Vulnerability Traits,64,Intellectualizing feelings,description is empty
+empty_description,Vulnerability Traits,65,Centers men; needs a relationship,description is empty
+empty_description,Vulnerability Traits,66,Unemployed or underemployed,description is empty
+empty_description,Vulnerability Traits,67,IPV within the social network,description is empty
+empty_description,Vulnerability Traits,68,Being bisexual,description is empty
+empty_description,Vulnerability Traits,69,Being non-hetero,description is empty
+empty_description,Vulnerability Traits,70,Being divorced or separated,description is empty
+empty_description,Vulnerability Traits,71,Ethnic minority background,description is empty
+empty_description,Vulnerability Traits,72,Experience being bullied in school,description is empty
+empty_description,Vulnerability Traits,73,Younger women under 30,description is empty
+empty_description,Vulnerability Traits,74,Elderly,description is empty
+empty_description,Vulnerability Traits,75,Lower education level,description is empty
+empty_description,Vulnerability Traits,76,High Tolerance for Ambivalence and Uncertainty,description is empty
+empty_description,Vulnerability Traits,77,Attachment difficulties,description is empty
+empty_description,Vulnerability Traits,78,Love = sacrifice,description is empty
+empty_description,Vulnerability Traits,79,Hyperindependence as a defense mechanism,description is empty
+empty_description,Vulnerability Traits,80,Wanting to be perceived as “good”,description is empty
+empty_description,Vulnerability Traits,81,"Is an immigrant, documented or undocumented",description is empty
+empty_description,Vulnerability Traits,82,Has a need for closure,description is empty
+empty_description,Vulnerability Traits,83,Empathic women who over-accommodate,description is empty
+empty_description,Vulnerability Traits,84,Empathic women who over-accommodate,description is empty
+empty_description,Vulnerability Traits,85,Women who take responsibility for emotional labor,description is empty
+empty_description,Vulnerability Traits,86,Women who believe they can “teach” someone to be emotionally available,description is empty
+empty_description,Vulnerability Traits,87,Caretaker personalities,description is empty
+empty_description,Vulnerability Traits,88,Highly intuitive women who sense potential,description is empty
+empty_description,Vulnerability Traits,89,The Empath,description is empty
+empty_description,Vulnerability Traits,90,The Over-Giver,description is empty
+empty_description,Vulnerability Traits,91,The Peacemaker,description is empty
+empty_description,Vulnerability Traits,92,The Fixer,description is empty
