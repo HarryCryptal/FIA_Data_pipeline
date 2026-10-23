@@ -7,7 +7,8 @@ Settings: min-fill threshold = 10.0% (columns with less data were dropped); empt
 | Abuse Techniques.csv | 252 | 252 | 29 | 9 | 20 | 551 |
 | Media characters.csv | 51 | 51 | 8 | 6 | 2 | 30 |
 | Mental processes.csv | 27 | 26 | 11 | 8 | 3 | 71 |
-| Player typologies.csv | 37 | 36 | 24 | 18 | 6 | 48 |
+| Player typologies.csv | 37 | 36 | 24 | 18 | 6 | 46 |
+| Red flags.csv | 141 | 141 | 11 | 8 | 3 | 110 |
 | Trauma.csv | 80 | 80 | 12 | 6 | 6 | 122 |
 | Universal Neurological Encoding system.csv | 57 | 57 | 21 | 12 | 9 | 54 |
 | Vulnerability Traits.csv | 91 | 91 | 11 | 8 | 3 | 144 |
@@ -20,6 +21,7 @@ Settings: min-fill threshold = 10.0% (columns with less data were dropped); empt
 | Media characters 97ab254eada34020beae74df3e251266_all.csv | Media characters.csv |
 | Mental processes 1d2c418c9c4246fcbb88ae53c170930d_all.csv | Mental processes.csv |
 | Player typologies 6f47a330da3743379ee546cf29e3b421_all.csv | Player typologies.csv |
+| Red flags b77ae4bede5e4c3c8924b674a13e9370_all.csv | Red flags.csv |
 | Trauma a79d6f244b72405fb6841d0f9757de1e_all.csv | Trauma.csv |
 | Universal Neurological Encoding system 19aee3e2472c80e4937bec967dba15bf_all.csv | Universal Neurological Encoding system.csv |
 | Vulnerability Traits 61fe931348ee478a85de56608cae8dfb_all.csv | Vulnerability Traits.csv |
@@ -64,6 +66,11 @@ Settings: min-fill threshold = 10.0% (columns with less data were dropped); empt
 - 'Comebacks' (0/36 filled)
 - 'Emotions' (0/36 filled)
 - 'Research' (1/36 filled)
+
+**Red flags.csv**:
+- 'Cleanup flag' (0/141 filled)
+- 'Data Links' (0/141 filled)
+- 'Emotions' (0/141 filled)
 
 **Trauma.csv**:
 - 'Cleanup flag' (1/80 filled)
